@@ -1,5 +1,15 @@
+
+# Firebase Auth Login Template
+
+
+
+## Usage/Examples
 add serviceAccount.json in /BE/config
+
+
 using format :
+```javascript
+
 {
 "type": "",
 "project_id": "-keahlian",
@@ -13,3 +23,6 @@ using format :
 "client_x509_cert_url": "",
 "universe_domain": ""
 }
+
+```
+
